@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zamausa/tfodreactappteststatic/css/main.523f09c5.chunk.css",
+    "main.js": "/zamausa/tfodreactappteststatic/js/main.28d9945a.chunk.js",
+    "main.js.map": "/zamausa/tfodreactappteststatic/js/main.28d9945a.chunk.js.map",
+    "runtime-main.js": "/zamausa/tfodreactappteststatic/js/runtime-main.cafad454.js",
+    "runtime-main.js.map": "/zamausa/tfodreactappteststatic/js/runtime-main.cafad454.js.map",
+    "static/js/2.21ff9bcf.chunk.js": "/zamausa/tfodreactappteststatic/js/2.21ff9bcf.chunk.js",
+    "static/js/2.21ff9bcf.chunk.js.map": "/zamausa/tfodreactappteststatic/js/2.21ff9bcf.chunk.js.map",
+    "index.html": "/zamausa/tfodreactapptestindex.html",
+    "precache-manifest.5e9dfe9f43df73fba56d4045f44555c0.js": "/zamausa/tfodreactapptestprecache-manifest.5e9dfe9f43df73fba56d4045f44555c0.js",
+    "service-worker.js": "/zamausa/tfodreactapptestservice-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/zamausa/tfodreactappteststatic/css/main.523f09c5.chunk.css.map",
+    "static/js/2.21ff9bcf.chunk.js.LICENSE.txt": "/zamausa/tfodreactappteststatic/js/2.21ff9bcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cafad454.js",
+    "static/js/2.21ff9bcf.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.28d9945a.chunk.js"
+  ]
+}
