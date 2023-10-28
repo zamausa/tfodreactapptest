@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/tfodreactapptest/static/css/main.6f0ba8ec.chunk.css",
-    "main.js": "/tfodreactapptest/static/js/main.5e4252d4.chunk.js",
-    "main.js.map": "/tfodreactapptest/static/js/main.5e4252d4.chunk.js.map",
+    "main.js": "/tfodreactapptest/static/js/main.436eba43.chunk.js",
+    "main.js.map": "/tfodreactapptest/static/js/main.436eba43.chunk.js.map",
     "runtime-main.js": "/tfodreactapptest/static/js/runtime-main.d50de102.js",
     "runtime-main.js.map": "/tfodreactapptest/static/js/runtime-main.d50de102.js.map",
-    "static/js/2.bb3586a8.chunk.js": "/tfodreactapptest/static/js/2.bb3586a8.chunk.js",
-    "static/js/2.bb3586a8.chunk.js.map": "/tfodreactapptest/static/js/2.bb3586a8.chunk.js.map",
+    "static/js/2.6f3c0fb6.chunk.js": "/tfodreactapptest/static/js/2.6f3c0fb6.chunk.js",
+    "static/js/2.6f3c0fb6.chunk.js.map": "/tfodreactapptest/static/js/2.6f3c0fb6.chunk.js.map",
     "index.html": "/tfodreactapptest/index.html",
-    "precache-manifest.32117420cda3d752ebd87ee15fc4c5d9.js": "/tfodreactapptest/precache-manifest.32117420cda3d752ebd87ee15fc4c5d9.js",
+    "precache-manifest.4602af5dc8c5bf665e06287d7a5bad5f.js": "/tfodreactapptest/precache-manifest.4602af5dc8c5bf665e06287d7a5bad5f.js",
     "service-worker.js": "/tfodreactapptest/service-worker.js",
     "static/css/main.6f0ba8ec.chunk.css.map": "/tfodreactapptest/static/css/main.6f0ba8ec.chunk.css.map",
-    "static/js/2.bb3586a8.chunk.js.LICENSE.txt": "/tfodreactapptest/static/js/2.bb3586a8.chunk.js.LICENSE.txt"
+    "static/js/2.6f3c0fb6.chunk.js.LICENSE.txt": "/tfodreactapptest/static/js/2.6f3c0fb6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d50de102.js",
-    "static/js/2.bb3586a8.chunk.js",
+    "static/js/2.6f3c0fb6.chunk.js",
     "static/css/main.6f0ba8ec.chunk.css",
-    "static/js/main.5e4252d4.chunk.js"
+    "static/js/main.436eba43.chunk.js"
   ]
 }
